@@ -1,0 +1,589 @@
+{
+  "translations": [
+    {
+      "key": "controlquestion.1.1.1.1.2::0",
+      "sv": "Beaktas risker under maskinens alla livsfaser (tillverkning, transport/installation, idrifttagning, användning/underhål, demontering/skrotning)?",
+      "en": "Are risks considered throughout all life stages of the machine (manufacturing, transport/installation, commissioning, use/maintenance, dismantling/scrapping)?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.2::1",
+      "sv": "Utgår denna bedömning från att åtgärder vidtas i följande ordning (Konstruktion - Skydd - Information)?",
+      "en": "Is this assessment based on measures being taken in the following order (Design - Guarding - Information)?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.2::2",
+      "sv": "Beaktas både avsedd användning och förutsebar felaktig användning?",
+      "en": "Is both intended use and foreseeable misuse considered?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.2::3",
+      "sv": "Beaktas begränsningar vid användning av personlig skyddsutrustning?",
+      "en": "Are limitations in the use of personal protective equipment considered?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.2::4",
+      "sv": "Medföljer specialutrustning och de tillbehör för installation, användning och underhål som krävs?",
+      "en": "Are special equipment and accessories required for installation, use and maintenance provided?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.3::0",
+      "sv": "Undviks farliga ämnen vid tillverkning av maskinen?",
+      "en": "Are hazardous substances avoided in the manufacture of the machine?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.3::1",
+      "sv": "Undviks farliga ämnen från produkter som används eller framställs av maskinen?",
+      "en": "Are hazardous substances avoided from products used or produced by the machine?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.3::2",
+      "sv": "Undviks risker vid hantering av vätskor eller gaser?",
+      "en": "Are risks avoided when handling liquids or gases?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.4::0",
+      "sv": "Anses normal belysning bring maskinen vara tillräcklig?",
+      "en": "Is normal lighting around the machine considered adequate?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.4::1",
+      "sv": "Beaktas behovet av inbyggd belysning för avsett arbete?",
+      "en": "Is the need for built-in lighting for intended work considered?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.4::2",
+      "sv": "Finns tillräcklig belysning till invändiga delar för säker justering och underhål?",
+      "en": "Is there adequate lighting for internal parts for safe adjustment and maintenance?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.4::3",
+      "sv": "Undviks att belysningen kan ge skuggade områden?",
+      "en": "Is the lighting prevented from creating shadowed areas?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.4::4",
+      "sv": "Undviks blåndningseffekter?",
+      "en": "Are glare effects avoided?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.4::5",
+      "sv": "Undviks stroboskopiska effekter (pulserade blinkningar)?",
+      "en": "Are stroboscopic effects (pulsed flashing) avoided?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.5::0",
+      "sv": "Kan maskinen/maskindelar hanteras och transporteras på ett säkert sätt?",
+      "en": "Can the machine/machine parts be handled and transported safely?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.5::1",
+      "sv": "Kan maskin/maskindelar förvaras utan risk för att ta skada?",
+      "en": "Can the machine/machine parts be stored without risk of damage?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.5::2",
+      "sv": "Kan maskin/maskindelar transporteras säkert? Plötslig rörelse, instabilitet.",
+      "en": "Can the machine/machine parts be transported safely? Sudden movement, instability."
+    },
+    {
+      "key": "controlquestion.1.1.1.1.5::3",
+      "sv": "Om maskin inte kan flyttas för hand, finns då fästanordning för lyftutrustning angivet eller förberedd med gängade hål eller kan lyftutrustning av standardtyp användas (truck, lyftstroppar)?",
+      "en": "If the machine cannot be moved by hand, is a lifting attachment specified or prepared with threaded holes, or can standard lifting equipment be used (truck, slings)?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.5::4",
+      "sv": "Om maskin/maskindel kan flyttas för hand, finns säkra lyftställen (handtag etc.)?",
+      "en": "If the machine/machine part can be moved by hand, are there safe lifting points (handles etc.)?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.5::5",
+      "sv": "Kan verktyg och andra potentiellt farliga delar hanteras på ett säkert sätt?",
+      "en": "Can tools and other potentially hazardous parts be handled safely?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.6::0",
+      "sv": "Undviks risk för obehag, tröthet, fysiska, psykiska påfrestningar?",
+      "en": "Is the risk of discomfort, fatigue, physical and mental strain avoided?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.6::1",
+      "sv": "Tas hänsyn till personers olika förutsättningar?",
+      "en": "Are people's different conditions considered?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.6::2",
+      "sv": "Har operatören tillräckligt med utrymme?",
+      "en": "Does the operator have sufficient space?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.6::3",
+      "sv": "Undviks att maskinen bestämmer arbetssakten?",
+      "en": "Is the machine prevented from determining the work pace?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.6::4",
+      "sv": "Undviks övervakning som kräver lång koncentration?",
+      "en": "Is monitoring that requires prolonged concentration avoided?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.6::5",
+      "sv": "Undviks risker genom att anpassa gränssnittet människamaskin?",
+      "en": "Are risks avoided by adapting the human-machine interface?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.7::0",
+      "sv": "Undviks risk för avgaser eller syrebrist?",
+      "en": "Are risks of exhaust gases or oxygen deficiency avoided?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.7::1",
+      "sv": "Vid användning i riskfylld miljö, är arbetsfölhållandena goda och skyddas operatören mot riskkällan?",
+      "en": "When used in a hazardous environment, are working conditions good and is the operator protected against the hazard source?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.7::2",
+      "sv": "Undviks risker för operatören genom att förse maskinen med en hytt som ger en säker arbeteplats?",
+      "en": "Are risks to the operator avoided by providing the machine with a cab that provides a safe workspace?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.8::0",
+      "sv": "Har maskinen tillräckliga säten för operatören (då det krävs)?",
+      "en": "Does the machine have adequate seats for the operator (where required)?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.8::1",
+      "sv": "Är sätet anpassat för operatören?",
+      "en": "Is the seat adapted for the operator?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.8::2",
+      "sv": "Tas hänsyn till vibrationer som operatören utsätts för?",
+      "en": "Is consideration given to vibrations that the operator is exposed to?"
+    },
+    {
+      "key": "controlquestion.1.1.1.1.8::3",
+      "sv": "Är fästen för säte, fotstöd och hallkryds säkert utformade?",
+      "en": "Are the fasteners for seat, footrest and handholds safely designed?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::0",
+      "sv": "Är styrystemet konstruerat och tillverkat så att risksituationer inte uppstår?",
+      "en": "Is the control system designed and manufactured so that hazardous situations do not arise?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::1",
+      "sv": "Täll styrystemet normal användning i avsedd miljö?",
+      "en": "Does the control system meet normal use in the intended environment?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::2",
+      "sv": "Undviks att fel i maskin- eller programmvara leder till farliga situationer?",
+      "en": "Are faults in hardware or software prevented from leading to hazardous situations?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::3",
+      "sv": "Undviks att fel i logik leder till farliga situationer?",
+      "en": "Are logic errors prevented from leading to hazardous situations?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::4",
+      "sv": "Undviks att rimliga förutsebara människliga misstag leder till farliga situationer?",
+      "en": "Are reasonably foreseeable human errors prevented from leading to hazardous situations?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::5",
+      "sv": "Är det möjligt att överväga rimlighet enligt detta dokument?",
+      "en": "Is it possible to consider reasonableness according to this document?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::6",
+      "sv": "Är styrystemet konstruerat så att maskinen inte kan starta på av sig själv?",
+      "en": "Is the control system designed so that the machine cannot start by itself?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::7",
+      "sv": "Är styrystemets paramtrar ändras okontrollerat?",
+      "en": "Are control system parameters changed uncontrollably?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::8",
+      "sv": "Är möjlighet att göra maskinen obehindrad efter återverkan av personlig skyddsutrustning?",
+      "en": "Is it possible to make the machine unobstructed after reaction to personal protective equipment?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::9",
+      "sv": "Är möjlighet att gå skuggsanordningarna förbi fullständigt effektiv eller utlöst stoppkommando vid fel i styrystem?",
+      "en": "Is it possible to bypass safety devices completely effectively or trigger stop command on control system failure?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::10",
+      "sv": "Kan skyddsanordningarna förbi fullständigt effektiva eller utlöst stoppkommando vid fel i styrystem?",
+      "en": "Can safety devices be bypassed completely effectively or trigger stop command on control system failure?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.1::11",
+      "sv": "Är de säkerhetsrelaterade delarna i ett styrystem samordnade (sammansatta maskiner/maskingrupper)?",
+      "en": "Are the safety-related parts of a control system coordinated (assembled machines/machine groups)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::0",
+      "sv": "Är manöverdonen klart synliga och identifierbara samt märkta på ett bratt sätt?",
+      "en": "Are the control elements clearly visible and identifiable and marked in a clear manner?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::1",
+      "sv": "Kan manöverdonen användas utan tveksamhet, tidsspillan eller risk för missförstånd?",
+      "en": "Can the control elements be used without hesitation, loss of time or risk of misunderstanding?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::2",
+      "sv": "Öveensstämmer manövrenets rolelse med dess verkan?",
+      "en": "Does the function of the control match its action?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::3",
+      "sv": "Är manöverdonen placerade utifrån riskomrade (undantaget nödtopp och programmeringsenheters)?",
+      "en": "Are the control elements positioned based on the hazard zone (except emergency stop and programming units)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::4",
+      "sv": "Är manöverdonen placerade så att användning inte ger upphov till ytterligare risker?",
+      "en": "Are the control elements positioned so that their use does not give rise to additional risks?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::5",
+      "sv": "Medförjer specialutrustning och de tillbehör för installation, användning och underhål som krävs?",
+      "en": "Are special equipment and accessories required for installation, use and maintenance provided?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::6",
+      "sv": "Täll manöverdonen den påfrestning de kan tänkas utsättas för (beakta utströjning såsom handskar, skör etc.)?",
+      "en": "Do the control elements withstand the stresses they may be subjected to (consider loading such as gloves, dirt, etc.)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::7",
+      "sv": "Kan manöverdon som utför flera funktioner användas säkert utan risk för missförstånd?",
+      "en": "Can control elements that perform multiple functions be used safely without risk of misunderstanding?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::8",
+      "sv": "Om NEJ på fråga 8, krävs bekräftelse på begärd funktion (om denna kan innebära en risk)?",
+      "en": "If NO to question 8, is confirmation required on the requested function (if this may pose a risk)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::9",
+      "sv": "Är manöverdonen ergonomiskt placerade och i övrigt anpassade (ta hänsyn till begränsningar, ex. skyddsutrustning såsom handskar, skor etc.)?",
+      "en": "Are the control elements ergonomically positioned and otherwise adapted (consider limitations, e.g. protective equipment such as gloves, shoes, etc.)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::10",
+      "sv": "Finns tillräckliga indikeringsanordningar för säkert användsande (visarinstrument, signaler etc.)?",
+      "en": "Are there sufficient indication devices for safe use (display instruments, signals, etc.)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::11",
+      "sv": "Kan indikeringsanordningarna avläsas från manövérplatsen?",
+      "en": "Can the indication devices be read from the control position?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.2::12",
+      "sv": "Kan operatör från den huvudsakliga manövérplatsen se att personer befinner sig i riskomraden?",
+      "en": "Can the operator from the main control position see if people are in hazardous areas?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.3::0",
+      "sv": "Kan start endast ske genom avsiktlig påverkan på ett för ändamålet avsett manöverdon?",
+      "en": "Can starting only occur through intentional actuation of a control element intended for that purpose?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.3::1",
+      "sv": "Undviks avsiktlig återstart efter stopp (oavsett orsaken därför till vid avsevälrd förändring av driftförhållandena, hastighet, truck, oavsiktligt påverkade givare etc.)?",
+      "en": "Is unintended restart after stopping avoided (regardless of the reason for this when significant changes in operating conditions, speed, truck, unintentionally affected sensors, etc.)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.3::2",
+      "sv": "Sker återstart i automatdrift på ett enkelt och säkert sätt?",
+      "en": "Does restart in automatic mode occur in a simple and safe manner?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.3::3",
+      "sv": "Sker start när flera startanordningar finns, på ett säkert sätt?",
+      "en": "Does starting occur safely when multiple start controls are present?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.1::0",
+      "sv": "Finns ett manöverdon som stoppar maskinen fullständigt (normal stoppfunktion)?",
+      "en": "Is there a control element that stops the machine completely (normal stop function)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.1::1",
+      "sv": "Finns det vid varje arbetsstation, beroende på risktyp möjlighet att stoppa några eller samtliga delar så att maskinen blir säker?",
+      "en": "Is there at each workstation, depending on the type of risk, the possibility to stop some or all parts so that the machine becomes safe?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.1::2",
+      "sv": "Är maskinens stoppon (stoppfunktion) överordnad dess startdon (startfunktion)?",
+      "en": "Is the machine's stop control (stop function) superior to its start control (start function)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.1::3",
+      "sv": "Är kraftförsörjningen till drivorganen för de farliga delarna brutna när dessa stoppats (spänning till elmotorer, olje tryck till hydraulmotorer etc.)?",
+      "en": "Is the power supply to the drives for the hazardous parts cut off when they are stopped (voltage to electric motors, oil pressure to hydraulic motors, etc.)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.2::0",
+      "sv": "Övervakas och upprätthålls stoppillståndet när kraftförsörjningen till drivorganen inte bryts?",
+      "en": "Is the stopped state monitored and maintained when the power supply to the drives is not cut off?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::0",
+      "sv": "Finns ett manöverdon som stoppar maskinen fullständigt (nödstopp)?",
+      "en": "Is there a control element that stops the machine completely (emergency stop)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::1",
+      "sv": "Är nödstoppen lätt att nå och använda?",
+      "en": "Is the emergency stop easy to reach and use?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::2",
+      "sv": "Är nödstoppen röd eller gul bakgrund?",
+      "en": "Is the emergency stop red or yellow background?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::3",
+      "sv": "Är nödstoppen försedd med en märkningssymbol?",
+      "en": "Is the emergency stop provided with a marking symbol?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::4",
+      "sv": "Är nödstoppen märkt med följande (överblickbar) platser?",
+      "en": "Is the emergency stop marked at the following (visible) locations?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::5",
+      "sv": "Utesluts samtidlig användning från flera manövérplatser, undantaget nödstopp och programmeringsenheters?",
+      "en": "Is simultaneous use from multiple control positions excluded, except for emergency stop and programming units?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::6",
+      "sv": "Användtes rörlig nödstopp ger maskinen automatiskt stopp när korrekta styrsignaler inte går fram, inklusive kommunikationsöverfall?",
+      "en": "If a movable emergency stop is used, does the machine automatically stop when correct control signals are not transmitted, including communication failures?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::7",
+      "sv": "Har alla manövérplatser alla nödvendiga manövérdon?",
+      "en": "Do all control positions have all necessary control elements?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.3::8",
+      "sv": "Kan operatör från den huvudsakliga manövérplatsen se att personer befinner sig i riskomraden?",
+      "en": "Can the operator from the main control position see if people are in hazardous areas?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.4::0",
+      "sv": "Stoppas maskinen med tillhörande ansluten utrustning med stoppanordning inklusive nödstopp på ett säkert sätt (beakta alltså både machine maskinen)",
+      "en": "Is the machine with associated connected equipment stopped with a stop device including emergency stop in a safe manner (consider both the machine and equipment)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.4.4::1",
+      "sv": "Om maskinkombinationer indelats i nödstopsgrupper är de då lätta att identifiera? Se även EN ISO 13850.",
+      "en": "If machine combinations are divided into emergency stop groups, are they easy to identify? See also EN ISO 13850."
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::0",
+      "sv": "Är det styrväxt som välts överordnat alla andra styrväxlar förutom nödstopp (auto, installation, hand)?",
+      "en": "Is the selected control mode superior to all other control modes except emergency stop (auto, installation, manual)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::1",
+      "sv": "Om valjare finns för olika säkerhetsnivåer, kan den då ge lösas i de olika lägena?",
+      "en": "If a selector is present for different safety levels, can it be released in the different modes?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::2",
+      "sv": "Motsvarar varje val endast ett drifts eller styrväxt?",
+      "en": "Does each selection correspond to only one operating or control mode?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::3",
+      "sv": "Om maskin måste köras med skyddsanordningarna satta ur spel: är manöverdonen placerade och i övrigt anpassade (ta hänsyn till begränsningar, ex. skyddsutrustning såsom handskar, skor etc.)?",
+      "en": "If the machine must be operated with safety devices disabled: are the control elements positioned and otherwise adapted (consider limitations, e.g. protective equipment such as gloves, shoes, etc.)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::4",
+      "sv": "Om NEJ på fråga 4, är styrystemet placerat så att användning inte ger upphov till ytterligare risker?",
+      "en": "If NO to question 4, is the control system positioned so that its use does not give rise to additional risks?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::5",
+      "sv": "Är manöverdonen ergonomiskt placerade och i övrigt anpassade (ta hänsyn till begränsningar, ex. skyddsutrustning såsom handskar, skor etc.)?",
+      "en": "Are the control elements ergonomically positioned and otherwise adapted (consider limitations, e.g. protective equipment such as gloves, shoes, etc.)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::6",
+      "sv": "Finns tillräckliga indikeringsanordningar för säkert användsande (visarinstrument, signaler etc.)?",
+      "en": "Are there sufficient indication devices for safe use (display instruments, signals, etc.)?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::7",
+      "sv": "Kan operatören styra driften från det ställe han eller hon arbetar på?",
+      "en": "Can the operator control operation from where they work?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.5::8",
+      "sv": "Om operatör från den huvudsakliga manövérplatsen, se att ingen person befinner sig i riskomraden?",
+      "en": "If the operator from the main control position, can they see that no person is in hazardous areas?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.6::0",
+      "sv": "Undviks att maskinen startar oväntad efter avbrott eller variation i kraftförsörjningen?",
+      "en": "Is unexpected starting of the machine after a power outage or power variation avoided?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.6::1",
+      "sv": "Undviks risker pga. okontrollerade ändringar i parameterinställningar?",
+      "en": "Are risks avoided due to uncontrolled changes in parameter settings?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.6::2",
+      "sv": "Kan maskinen stoppas säkert vid fel i kraftförsörjningen, oavsett driftssätt?",
+      "en": "Can the machine be stopped safely in case of power failure, regardless of operating mode?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.6::3",
+      "sv": "Undviks att rolig del eller del som håls av maskinen faller eller kastas ut vid fel i kraftförsörjningen?",
+      "en": "Are rotating parts or parts held by the machine prevented from falling or being ejected in case of power failure?"
+    },
+    {
+      "key": "controlquestion.1.2.1.1.2.6::4",
+      "sv": "Kan skyddsanordningarna förbi fullständigt effektiva vid kraftbortfall?",
+      "en": "Can safety devices be bypassed completely effectively during power failure?"
+    },
+    {
+      "key": "controlquestion.1.3.1.3::0",
+      "sv": "Är rörliga delar (kläm-, skär-, indragning, kross) konstruerade eller placerade så att åtkomst till riskzoner minimeras?",
+      "en": "Are moving parts (pinch, cutting, drawing-in, crushing) designed or positioned so that access to hazardous zones is minimized?"
+    },
+    {
+      "key": "controlquestion.1.3.1.3::1",
+      "sv": "Är utkast av delar eller bearbetade ämnen förhindrat eller begränsat med skydd/kapsling?",
+      "en": "Is the ejection of parts or workpieces prevented or limited with guards/enclosures?"
+    },
+    {
+      "key": "controlquestion.1.3.1.3::2",
+      "sv": "Är maskinens stabilitet säkerställd vid drift, transport och installation (ingen risk för tippning eller fall)?",
+      "en": "Is the machine's stability ensured during operation, transport and installation (no risk of tipping or falling)?"
+    },
+    {
+      "key": "controlquestion.1.3.1.3::3",
+      "sv": "Är roterande delar balanserade och säkrade mot lossnande verktyg/detaljer?",
+      "en": "Are rotating parts balanced and secured against loosening tools/parts?"
+    },
+    {
+      "key": "controlquestion.1.3.1.3::4",
+      "sv": "Är transport-, justerings- och underhållspunkter säkrade så att mekaniska risker undviks?",
+      "en": "Are transport, adjustment and maintenance points secured so that mechanical risks are avoided?"
+    },
+    {
+      "key": "controlquestion.1.4.1.4::0",
+      "sv": "Är skydd och skyddsanordningar robusta, fast monterade och motstår förväntade påkänningar?",
+      "en": "Are guards and protective devices robust, firmly fixed and resistant to expected stresses?"
+    },
+    {
+      "key": "controlquestion.1.4.1.4::1",
+      "sv": "Kan skydd endast öppnas/tas bort med avsikt och helst med verktyg (eller ger stoppkommando vid öppning)?",
+      "en": "Can guards only be opened/removed intentionally and preferably with tools (or give stop command when opened)?"
+    },
+    {
+      "key": "controlquestion.1.4.1.4::2",
+      "sv": "Begränsar skydd inte sikt eller processövervakning mer än nödvändigt?",
+      "en": "Do guards not limit visibility or process monitoring more than necessary?"
+    },
+    {
+      "key": "controlquestion.1.4.1.4::3",
+      "sv": "Ger skydd inga nya risker (skarpa kanter, klämrisker, instängning)?",
+      "en": "Do guards not create new hazards (sharp edges, pinch risks, entrapment)?"
+    },
+    {
+      "key": "controlquestion.1.4.1.4::4",
+      "sv": "Återgår rörliga skydd till säkert läge och är förregling/stopp kopplad till skyddets position?",
+      "en": "Do movable guards return to safe position and is locking/stop coupled to the guard's position?"
+    },
+    {
+      "key": "controlquestion.1.4.1.4::5",
+      "sv": "Är skyddsanordningar (ljusridå, mattor, tvåhandsdon m.m.) placerade och kopplade så att riskzon lämnas innan start?",
+      "en": "Are safety devices (light barriers, mats, two-hand controls, etc.) positioned and coupled so that the hazard zone is left before starting?"
+    },
+    {
+      "key": "controlquestion.1.5.1.5::0",
+      "sv": "Är elektriska risker hanterade enligt relevanta standarder (isolation, jordning, kapsling, EMC)?",
+      "en": "Are electrical risks handled according to relevant standards (insulation, earthing, enclosure, EMC)?"
+    },
+    {
+      "key": "controlquestion.1.5.1.5::1",
+      "sv": "Är termiska risker (heta/kalla ytor, brand, explosion) förebyggda och markerade?",
+      "en": "Are thermal risks (hot/cold surfaces, fire, explosion) prevented and marked?"
+    },
+    {
+      "key": "controlquestion.1.5.1.5::2",
+      "sv": "Är buller- och vibrationsnivåer reducerade vid källan och specificerade för användare?",
+      "en": "Are noise and vibration levels reduced at the source and specified for users?"
+    },
+    {
+      "key": "controlquestion.1.5.1.5::3",
+      "sv": "Är strålning (laser, UV/IR, ioniserande) begränsad, skärmad och märkt?",
+      "en": "Is radiation (laser, UV/IR, ionizing) limited, shielded and marked?"
+    },
+    {
+      "key": "controlquestion.1.5.1.5::4",
+      "sv": "Är risker från farliga ämnen/gaser/vätskor begränsade (inkapsling, ventilation, uppsamling, rengöring)?",
+      "en": "Are risks from hazardous substances/gases/liquids limited (encapsulation, ventilation, collection, cleaning)?"
+    },
+    {
+      "key": "controlquestion.1.6.1.6::0",
+      "sv": "Kan underhåll, inställning och rengöring utföras utanför riskzon eller efter säkert stopp/isolering?",
+      "en": "Can maintenance, adjustment and cleaning be carried out outside the hazardous zone or after safe stopping/isolation?"
+    },
+    {
+      "key": "controlquestion.1.6.1.6::1",
+      "sv": "Finns avstängning och låsbar isolering av energitillförsel (el, tryck, lagrad energi)?",
+      "en": "Is there isolation and lockable isolation of energy supply (electricity, pressure, stored energy)?"
+    },
+    {
+      "key": "controlquestion.1.6.1.6::2",
+      "sv": "Är åtkomster för underhåll säkra (plattformar, steg, belysning) och utan mekaniska/elektriska risker?",
+      "en": "Are maintenance accesses safe (platforms, steps, lighting) and without mechanical/electrical risks?"
+    },
+    {
+      "key": "controlquestion.1.6.1.6::3",
+      "sv": "Kan förbrukningsvaror/byten hanteras utan spill av farliga ämnen eller risk för brännskador?",
+      "en": "Can consumables/replacements be handled without spillage of hazardous substances or risk of burns?"
+    },
+    {
+      "key": "controlquestion.1.7.1.7::0",
+      "sv": "Är märkning, varningsskyltar och symboler tydliga, läsbara och placerade nära relevanta riskzoner?",
+      "en": "Are markings, warning signs and symbols clear, readable and positioned near relevant hazardous zones?"
+    },
+    {
+      "key": "controlquestion.1.7.1.7::1",
+      "sv": "Anges rest-risker, behov av personlig skyddsutrustning och driftbegränsningar i instruktionerna?",
+      "en": "Are residual risks, need for personal protective equipment and operating limitations specified in the instructions?"
+    },
+    {
+      "key": "controlquestion.1.7.1.7::2",
+      "sv": "Är bruksanvisning komplett, på användarens språk och beskriver installation, drift, underhåll och nödlägen?",
+      "en": "Is the instruction manual complete, in the user's language and describes installation, operation, maintenance and emergency procedures?"
+    },
+    {
+      "key": "controlquestion.1.7.1.7::3",
+      "sv": "Är uppgifter om buller/vibrationer och andra emissioner angivna enligt krav?",
+      "en": "Are data on noise/vibration and other emissions specified according to requirements?"
+    },
+    {
+      "key": "controlquestion.1.7.1.7::4",
+      "sv": "Är instruktioner för reservdelar/verktyg och eventuella särskilda kvalifikationer för arbete inkluderade?",
+      "en": "Are instructions for spare parts/tools and any special qualifications for work included?"
+    }
+  ]
+}

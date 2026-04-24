@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug app in Edge",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://localhost:1234",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Debug app in Chrome",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:1234",
+      "webRoot": "${workspaceFolder}"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Start and debug",
+      "configurations": ["Debug app in Edge"]
+    }
+  ]
+}

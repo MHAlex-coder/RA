@@ -1,0 +1,11 @@
+Swedish translations to add to i18n.js:
+"risk.param.severity": "Severity (Skadegrad)",
+"risk.param.frequency": "Frequency (Exponering)",
+"risk.param.probability": "Probability (Sannolikhet)",
+"risk.param.avoidance": "Avoidance (Undvikbarhet)",
+
+English translations to add to i18n.js:
+"risk.param.severity": "Severity (Severity degree)",
+"risk.param.frequency": "Frequency (Exposure)",
+"risk.param.probability": "Probability (Likelihood)",
+"risk.param.avoidance": "Avoidance (Avoidability)",

@@ -1,0 +1,6 @@
+[
+  { "hazardId": "mechanical", "text": "Klämrisk mellan rörliga delar" },
+  { "hazardId": "mechanical", "text": "Skärande verktyg" },
+  { "hazardId": "electrical", "text": "Elchock vid beröring" },
+  { "hazardId": "thermal", "text": "Brännskada från heta ytor" }
+]

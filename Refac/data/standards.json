@@ -1,0 +1,70 @@
+{
+  "standards": [
+    {
+      "id": "std001",
+      "number": "EN ISO 12100",
+      "year": "2010",
+      "title": "Maskinsäkerhet - Riskbedömning och riskreducering",
+      "applicable": true,
+      "partiallyApplied": false
+    },
+    {
+      "id": "std002",
+      "number": "ISO/TR 14121-2",
+      "year": "2012",
+      "title": "Maskinsäkerhet - Riskbedömning - Del 2: Praktisk vägledning",
+      "applicable": true,
+      "partiallyApplied": false
+    },
+    {
+      "id": "std003",
+      "number": "EN ISO 13849-1",
+      "year": "2015",
+      "title": "Säkerhet hos maskiner - Säkerhetsrelaterade delar i styrsystem - Del 1: Allmänna designprinciper",
+      "applicable": false,
+      "partiallyApplied": false
+    },
+    {
+      "id": "std004",
+      "number": "EN IEC 60204-1",
+      "year": "2018",
+      "title": "Maskinsäkerhet - Elutrustning till maskiner - Del 1: Allmänna krav",
+      "applicable": false,
+      "partiallyApplied": false
+    },
+    {
+      "id": "std005",
+      "number": "EN 60335-1",
+      "year": "2012",
+      "title": "Hushålls- och liknande elektriska apparater - Säkerhet - Del 1: Allmänna krav",
+      "applicable": false,
+      "partiallyApplied": false
+    }
+  ],
+  "directives": [
+    {
+      "id": "dir001",
+      "number": "2006/42/EG",
+      "title": "Maskindirektivet",
+      "active": true
+    },
+    {
+      "id": "dir002",
+      "number": "(EU) 2023/1230",
+      "title": "Maskinförordningen",
+      "active": false
+    },
+    {
+      "id": "dir003",
+      "number": "2014/35/EU",
+      "title": "Lågspänningsdirektivet (LVD)",
+      "active": false
+    },
+    {
+      "id": "dir004",
+      "number": "2011/65/EU",
+      "title": "RoHS-direktivet",
+      "active": false
+    }
+  ]
+}
